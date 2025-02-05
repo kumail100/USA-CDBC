@@ -1,7 +1,5 @@
 # USA-CDBC
 Smart Contract System for a United States Central Bank Digital Currency (CBDC) on the Bitcoin SV Blockchain
-
-Smart Contract System for a United States Central Bank Digital Currency (CBDC) on the Bitcoin SV Blockchain
 1. Introduction
 
 The need for a modern and efficient financial system has never been greater. As digital currencies continue to evolve, the idea of issuing a Central Bank Digital Currency (CBDC) tied to the United States Dollar (USD) is increasingly being considered. By using the Bitcoin SV (BSV) blockchain, the US government can leverage a platform that is trusted, scalable, fast, and cost-effective to introduce a digital dollar. This digital version of the US Dollar, known as uUSD, will complement the traditional fiat currency, allowing for seamless and efficient transactions while offering additional control over inflation, reducing operational costs, and improving financial transparency.
