@@ -36,6 +36,7 @@ Token Name: USD-CBDC
 Token Symbol: uUSD
 Total Supply: Issued in controlled amounts to correspond to the US Dollar supply. A reserve will hold extra tokens for loans.
 Minting and Burning: The smart contract will control the minting and burning of tokens based on real-world USD issuance and the reserve amount.
+
 3.2 Smart Contract Logic (sCrypt)
 The smart contract in sCrypt would manage the supply and transactions of uUSD:
 
